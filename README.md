@@ -58,11 +58,6 @@ This website includes multiple sections such as Home, Services, About Me, and Co
 ├── Logo.png
 ├── about.jpg
 ├── nature.jpg
-├── screenshots/
-│   ├── home.png
-│   ├── services.png
-│   ├── about.png
-│   └── contact.png
 └── README.md
 
  
